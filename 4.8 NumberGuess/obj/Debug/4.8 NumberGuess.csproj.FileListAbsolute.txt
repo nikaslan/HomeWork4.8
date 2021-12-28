@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\HomeWork4.8\4.8 NumberGuess\bin\Debug\4.8 NumberGuess.exe.config
+C:\Users\User\source\repos\HomeWork4.8\4.8 NumberGuess\bin\Debug\4.8 NumberGuess.exe
+C:\Users\User\source\repos\HomeWork4.8\4.8 NumberGuess\bin\Debug\4.8 NumberGuess.pdb
+C:\Users\User\source\repos\HomeWork4.8\4.8 NumberGuess\obj\Debug\4.8 NumberGuess.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HomeWork4.8\4.8 NumberGuess\obj\Debug\4.8 NumberGuess.exe
+C:\Users\User\source\repos\HomeWork4.8\4.8 NumberGuess\obj\Debug\4.8 NumberGuess.pdb
+C:\Users\User\source\repos\HomeWork4.8\4.8 NumberGuess\obj\Debug\4.8 NumberGuess.csproj.AssemblyReference.cache

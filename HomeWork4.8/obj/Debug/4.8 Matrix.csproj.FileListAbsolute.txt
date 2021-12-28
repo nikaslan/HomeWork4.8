@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\HomeWork4.8\HomeWork4.8\bin\Debug\HomeWork4.8.exe.config
+C:\Users\User\source\repos\HomeWork4.8\HomeWork4.8\bin\Debug\HomeWork4.8.exe
+C:\Users\User\source\repos\HomeWork4.8\HomeWork4.8\bin\Debug\HomeWork4.8.pdb
+C:\Users\User\source\repos\HomeWork4.8\HomeWork4.8\obj\Debug\4.8 Matrix.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HomeWork4.8\HomeWork4.8\obj\Debug\4.8 Matrix.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HomeWork4.8\HomeWork4.8\obj\Debug\HomeWork4.8.exe
+C:\Users\User\source\repos\HomeWork4.8\HomeWork4.8\obj\Debug\HomeWork4.8.pdb
